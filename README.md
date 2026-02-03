@@ -76,7 +76,7 @@ This repository contains projects related to:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umaima-mudassir&hide_border=true&bg_color=FFF1F2&color=EC4899&line=FDBA74&point=FB7185" />
 </div>
 ---
-### 💼 Featured Projects
+
 
 
 ---
